@@ -7,7 +7,7 @@
 ### Prerequisites
 - [Stock fastboot rom](http://xmfirmwareupdater.com/miui/cepheus/)
 
-- [EDL drivers](https://github.com/n00b69/woa-cepheus/releases/download/Files/QUD.zip)
+- [EDL drivers](https://github.com/n00b69/woa-betalm/releases/download/Files/QUD.zip)
 
 - [Patched MiFlash](https://github.com/n00b69/woa-cepheus/releases/download/Files/PatchedMiflashRaphael.zip)
 
